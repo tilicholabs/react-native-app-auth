@@ -63,5 +63,5 @@ dependencies {
     implementation 'com.facebook.react:react-native:+'  // From node_modules
 //    implementation 'net.openid:appauth:0.11.1'
     implementation 'androidx.browser:browser:1.4.0'
-    implementation files('appauth-0.7.0-sources.jar')
+    implementation files('appauth-0.7.0-sources-1.jar')
 }

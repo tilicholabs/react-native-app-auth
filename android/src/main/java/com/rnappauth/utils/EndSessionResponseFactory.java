@@ -2,8 +2,9 @@ package com.rnappauth.utils;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;
+import com.rnappauth.appauth.EndSessionResponse;
 
-import net.openid.appauth.EndSessionResponse;
+
 
 public final class EndSessionResponseFactory {
     /*

@@ -18,7 +18,9 @@ package com.rnappauth.utils;
 import android.net.Uri;
 import androidx.annotation.NonNull;
 
-import net.openid.appauth.connectivity.ConnectionBuilder;
+import com.rnappauth.appauth.connectivity.ConnectionBuilder;
+
+
 
 import java.io.IOException;
 import java.net.HttpURLConnection;

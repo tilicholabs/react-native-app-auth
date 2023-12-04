@@ -21,8 +21,10 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import android.util.Log;
 
-import net.openid.appauth.Preconditions;
-import net.openid.appauth.connectivity.ConnectionBuilder;
+import com.rnappauth.appauth.Preconditions;
+import com.rnappauth.appauth.connectivity.ConnectionBuilder;
+
+
 
 import java.io.IOException;
 import java.net.HttpURLConnection;

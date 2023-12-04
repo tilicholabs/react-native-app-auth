@@ -2,8 +2,9 @@ package com.rnappauth.utils;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;
+import com.rnappauth.appauth.RegistrationResponse;
 
-import net.openid.appauth.RegistrationResponse;
+
 
 public final class RegistrationResponseFactory {
     /*

@@ -2,8 +2,10 @@ package com.rnappauth.utils;
 
 import androidx.annotation.NonNull;
 
-import net.openid.appauth.browser.BrowserDescriptor;
-import net.openid.appauth.browser.BrowserMatcher;
+import com.rnappauth.appauth.browser.BrowserDescriptor;
+import com.rnappauth.appauth.browser.BrowserMatcher;
+
+
 
 import java.util.ArrayList;
 import java.util.List;

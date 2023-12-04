@@ -5,9 +5,10 @@ import android.text.TextUtils;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableArray;
 import com.facebook.react.bridge.WritableMap;
+import com.rnappauth.appauth.AuthorizationResponse;
+import com.rnappauth.appauth.TokenResponse;
 
-import net.openid.appauth.AuthorizationResponse;
-import net.openid.appauth.TokenResponse;
+
 
 public final class TokenResponseFactory {
 
